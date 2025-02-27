@@ -6,7 +6,7 @@ A web application that closely mimics the user interface and core functionalitie
 
 ## Deployment
 
-[Live Demo](https://your-deployment-link.com)
+[Live Demo](https://mimigoogle.netlify.app/)
 
 ---
 
