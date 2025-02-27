@@ -83,4 +83,4 @@ A web application that closely mimics the user interface and core functionalitie
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/vijaygowtham13/Mimicking-Google-Sheets-.git
